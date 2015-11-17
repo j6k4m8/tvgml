@@ -1,0 +1,12 @@
+# Site settings
+title: TV Guide My Life
+email: hi@tvguidemylife.com
+description: >
+  TV Guide My Life
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tvguidemylife.com" # the base hostname & protocol for your site
+twitter_username: tvguidemylife
+github_username:  tvguidemylife
+
+# Build settings
+markdown: kramdown
