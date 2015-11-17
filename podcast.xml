@@ -30,13 +30,13 @@
         <itunes:subtitle>TV Guide My Life</itunes:subtitle>
         <lastBuildDate>Tue, 16 Nov 2015 00:00:00 EST</lastBuildDate>
         <item>
-            <title>Verbose title of the episode</title>
-            <description>Verbose description of the episode.</description>
-            <itunes:summary>Duplicate of above verbose description.</itunes:summary>
-            <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
+            <title>Episode 1: Alex</title>
+            <description>Alex</description>
+            <itunes:summary>Alex</itunes:summary>
+            <itunes:subtitle>Alex</itunes:subtitle>
             <itunesu:category itunesu:code="112" />
-            <enclosure url="http://www.tvguidemylife.com/FILE.EXT" type="audio/mpeg" length="1" />
-            <guid>http://www.tvguidemylife.com/FILE.EXT</guid>
+            <enclosure url="http://www.tvguidemylife.com/public/media/Ep1_Alex.m4a" type="audio/mpeg" length="1" />
+            <guid>http://www.tvguidemylife.com/public/media/Ep1_Alex.m4a</guid>
             <itunes:duration>H:MM:SS</itunes:duration>
             <pubDate>Tue, 16 Nov 2015 00:00:00 EST</pubDate>
         </item>
