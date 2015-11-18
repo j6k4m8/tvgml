@@ -7,7 +7,7 @@
         <webMaster>rss@tvguidemylife.com (TV Guide My Life)</webMaster>
         <managingEditor>rss@tvguidemylife.com (TV Guide My Life)</managingEditor>
         <image>
-            <url>http://tvguidemylife.com/logo.jpg</url>
+            <url>http://tvguidemylife.com/public/logo.png</url>
             <title>TV Guide My Life</title>
             <link>http://www.tvguidemylife.com</link>
         </image>
@@ -20,8 +20,8 @@
         </itunes:category>
         <itunes:keywords>TV, show, Guide</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://www.tvguidemylife.com/ImageSize300X300.jpg" />
-        <atom:link href="http://www.tvguidemylife.com/feed.xml" rel="self" type="application/rss+xml" />
+        <itunes:image href="http://www.tvguidemylife.com/public/logo.png" />
+        <atom:link href="http://www.tvguidemylife.com/podcast.xml" rel="self" type="application/rss+xml" />
         <pubDate>Tue, 16 Nov 2015 00:00:00 EST</pubDate>
         <title>TV Guide My Life</title>
         <itunes:author>TV Guide My Life</itunes:author>
