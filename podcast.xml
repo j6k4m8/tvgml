@@ -37,7 +37,18 @@
             <itunesu:category itunesu:code="112" />
             <enclosure url="http://www.tvguidemylife.com/public/media/Ep1_Alex.m4a" type="audio/mpeg" length="1" />
             <guid>http://www.tvguidemylife.com/public/media/Ep1_Alex.m4a</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:duration>1:12:33</itunes:duration>
+            <pubDate>Tue, 14 Nov 2015 00:00:00 EST</pubDate>
+        </item>
+        <item>
+            <title>Episode 3: Anya</title>
+            <description>Anya</description>
+            <itunes:summary>Anya</itunes:summary>
+            <itunes:subtitle>Anya</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://www.tvguidemylife.com/public/media/Ep3_Anya.m4a" type="audio/mpeg" length="1" />
+            <guid>http://www.tvguidemylife.com/public/media/Ep3_Anya.m4a</guid>
+            <itunes:duration>0:59:00</itunes:duration>
             <pubDate>Tue, 16 Nov 2015 00:00:00 EST</pubDate>
         </item>
     </channel>
